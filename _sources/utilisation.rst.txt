@@ -1,0 +1,51 @@
+Utilisation de la BEBER'ICARD
+==================================
+
+.. warning::
+
+   Attention à la consommation d'alcool
+
+   L'alcool est dangereux pour la santé. Sa consommation excessive peut entraîner des risques graves tels que des maladies du foie, des troubles cardiovasculaires, des cancers, et des troubles mentaux. La consommation d'alcool est également un facteur de risque majeur d'accidents de la route et d'autres accidents domestiques.
+
+   Il est recommandé de consommer de l'alcool avec modération et de respecter les recommandations de santé publique. Si vous avez des questions ou des préoccupations concernant votre consommation d'alcool, n'hésitez pas à consulter un professionnel de santé.
+
+
+Introduction
+------------
+
+Cette section décrit comment utiliser la machine à Ricard de manière optimale.
+
+Étapes d'utilisation
+--------------------
+
+1. **Préparation de la machine**
+   - Assurez-vous que la machine est propre et correctement installée.
+   - Remplissez le réservoir avec de l'eau et du Ricard dans les compartiments adéquat.
+
+2. **Mise en marche**
+   - Allumez la machine en alimentant directement la carte électronique par une prise secteur ou bien par la pile 9V prévue à cet effet.
+
+3. **Distribution**
+   - Placez un verre sous les deux tuyaux.
+   - Appuyez sur le l'interrupteur et attendez que le verre soit rempli.
+
+4. **Dégustation**
+   - Vous pouvez ajouter des glaçons dans vos verres pour encore plus savourer votre ricard.
+   - Vous n'avez oluq qu'à savourer votre verre avez tous vos amis.
+
+5. **Arrêt de la machine**
+   - Une fois le festival terminé, éteignez la machine.
+   - Purgez les deux pompes.
+
+Conseils d'utilisation
+----------------------
+
+- Utilisez toujours de l'eau fraîche pour obtenir le meilleur goût.
+- Nettoyez la machine après chaque utilisation pour éviter les dépôts.
+- Vérifiez régulièrement les niveaux de liquide dans les réservoirs.
+
+Dépannage
+---------
+
+- **La machine ne s'allume pas** : Vérifiez la connexion électrique et l'état du bouton d'alimentation.
+- **La distribution ne fonctionne pas** : Assurez-vous qu'il y a suffisamment de liquide dans les réservoirs et que les tuyaux ne sont pas obstrués.
