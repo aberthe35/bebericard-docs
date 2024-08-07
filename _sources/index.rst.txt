@@ -1,0 +1,15 @@
+.. Machine à Ricard documentation master file, created by
+   sphinx-quickstart on Fri Aug 03 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Bienvenue dans la documentation de la Machine à Ricard
+======================================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Table des matières:
+
+   utilisation
+   composition_evolution
+
